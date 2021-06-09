@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KlavierGayming
 - 👀 I’m interested in Friday Night Funkin' Modding
-- 🌱 I’m currently learning Haxe
+- 🌱 I’m not currently learning Haxe (I already learned it!)
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me No.
 
